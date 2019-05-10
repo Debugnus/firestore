@@ -2,9 +2,6 @@
 #include <iostream>
 #include <string>
 
-void UselessFunction(){
-}
-
 int main(){
 	int ruleN = 0;
 	int datasize = 0;
